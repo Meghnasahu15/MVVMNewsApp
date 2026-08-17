@@ -49,18 +49,6 @@ set JAVA_EXE=%JAVA_HOME%/bin/java.exe
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 if exist "%JAVA_EXE%" goto init
 
 echo.
