@@ -23,6 +23,9 @@ if defined JAVA_HOME goto findJavaFromJavaHome
 
 
 
+
+
+
 set JAVA_EXE=java.exe
 %JAVA_EXE% -version >NUL 2>&1
 
