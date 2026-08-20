@@ -22,6 +22,10 @@ while [ -h "$PRG" ] ; do
 
 
 
+
+
+
+
         PRG=`dirname "$PRG"`"/$link"
     fi
 done
