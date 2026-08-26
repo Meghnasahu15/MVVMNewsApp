@@ -26,6 +26,10 @@ set JAVA_EXE=java.exe
 
 
 
+
+
+
+
 if "%ERRORLEVEL%" == "0" goto init
 
 echo.
