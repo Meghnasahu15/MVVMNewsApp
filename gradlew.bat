@@ -18,7 +18,6 @@ set DEFAULT_JVM_OPTS=
 if defined JAVA_HOME goto findJavaFromJavaHom
 
 
-
 set JAVA_EXE=java.exe
 %JAVA_EXE% -version >NUL 2>&1
 
